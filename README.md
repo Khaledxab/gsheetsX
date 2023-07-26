@@ -1,4 +1,4 @@
-# gsheetsX - Modern Google Sheets Data Viewer
+# gsheetsX -  Google Sheets Data extractor
 
 gsheetsX is a Flask web app that allows easy viewing and sorting of data from Google Sheets. With gsheetsX, you can effortlessly explore and present tabulated information in ascending order, providing a sleek and user-friendly data visualization experience.
 
